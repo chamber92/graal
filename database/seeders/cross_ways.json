@@ -1,0 +1,3508 @@
+[
+{
+    "type": "header",
+    "version": "4.9.5deb2",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "xyi"
+},
+{
+    "type": "table",
+    "name": "cross_ways",
+    "database": "xyi",
+    "data": 
+[
+{
+    "id": "2197",
+    "xyg": "4448BGNSA",
+    "fps": "GS4044D21-X",
+    "prag": "64616130",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2196",
+    "xyg": "4448BGNSA",
+    "fps": "GS4044D21",
+    "prag": "64616129",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2195",
+    "xyg": "4448RGSS4FDW1M",
+    "fps": "GS4044D302",
+    "prag": "64616090",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2085",
+    "xyg": "AJ20RGSR5FD",
+    "fps": "GS3805D302-X",
+    "prag": "64616071",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2084",
+    "xyg": "AJ20RGSR5FD",
+    "fps": "GS3805D302",
+    "prag": "64616070",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2083",
+    "xyg": "AJ20RYPR5RD",
+    "fps": "GS3805D304",
+    "prag": "64616031",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2193",
+    "xyg": "4448RGSE5RDW",
+    "fps": "GS4044D306",
+    "prag": "64616026",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2194",
+    "xyg": "4448RGSS4RDW",
+    "fps": "GS4044D304",
+    "prag": "64616024",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2192",
+    "xyg": "4448LGSS4FDW1M",
+    "fps": "GS4044D301",
+    "prag": "64615990",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2082",
+    "xyg": "AJ20LYPR5RD",
+    "fps": "GS3805D303-X",
+    "prag": "64615929",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2081",
+    "xyg": "AJ20LYPR5RD",
+    "fps": "GS3805D303",
+    "prag": "64615928",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2190",
+    "xyg": "4448LGSE5RDW",
+    "fps": "GS4044D305",
+    "prag": "64615923",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2191",
+    "xyg": "4448LGSS4RDW",
+    "fps": "GS4044D303",
+    "prag": "64615921",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2189",
+    "xyg": "4448AGSBLHMOV",
+    "fps": "GS4044D11-X",
+    "prag": "64615734",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2188",
+    "xyg": "4448AGSBLHMOV",
+    "fps": "GS4044D11",
+    "prag": "64615733",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2041",
+    "xyg": "6057AGSBLHMVZ",
+    "fps": "GS3302D13-X",
+    "prag": "64615724",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2180",
+    "xyg": "4427AGNBLM1B",
+    "fps": "GS4015D16",
+    "prag": "64615716",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2226",
+    "xyg": "4453RYPH5RDW",
+    "fps": "GS4048D304",
+    "prag": "62936637",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2223",
+    "xyg": "4453LYPH5RDW",
+    "fps": "GS4048D303",
+    "prag": "62936635",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2228",
+    "xyg": "4453RGNH5FDW1M",
+    "fps": "GS4048D302-X",
+    "prag": "62936634",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2227",
+    "xyg": "4453RGNH5FDW1M",
+    "fps": "GS4048D302",
+    "prag": "62936633",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2225",
+    "xyg": "4453LGNH5FDW1M",
+    "fps": "GS4048D301-X",
+    "prag": "62936632",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2224",
+    "xyg": "4453LGNH5FDW1M",
+    "fps": "GS4048D301",
+    "prag": "62936631",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2222",
+    "xyg": "4453AGSBLMOV",
+    "fps": "GS4048D11-X",
+    "prag": "62936628",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2118",
+    "xyg": "4430BGNM",
+    "fps": "GS4016D21-X",
+    "prag": "62936615",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2178",
+    "xyg": "4427AGNBLHM1B",
+    "fps": "GS4015D13-X",
+    "prag": "62936612",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2106",
+    "xyg": "AJ19RYPR5RD",
+    "fps": "GS3808D304-X",
+    "prag": "62936610",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2105",
+    "xyg": "AJ19RYPR5RD",
+    "fps": "GS3808D304",
+    "prag": "62936609",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2103",
+    "xyg": "AJ19LYPR5RD",
+    "fps": "GS3808D303-X",
+    "prag": "62936608",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2107",
+    "xyg": "AJ19RGSR5FD1A",
+    "fps": "GS3808D302-X",
+    "prag": "62936606",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2104",
+    "xyg": "AJ19LGSR5FD1A",
+    "fps": "GS3808D301",
+    "prag": "62936603",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2108",
+    "xyg": "AJ19BYPR",
+    "fps": "GS3808D21",
+    "prag": "62936601",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2102",
+    "xyg": "AJ19AGAHIMOVZ1B",
+    "fps": "GS3808D13-X",
+    "prag": "62936600",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2090",
+    "xyg": "AJ13RYPR5RD",
+    "fps": "GS3807D304-X",
+    "prag": "62936594",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2089",
+    "xyg": "AJ13RYPR5RD",
+    "fps": "GS3807D304",
+    "prag": "62936593",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2086",
+    "xyg": "AJ13LYPR5RD",
+    "fps": "GS3807D303",
+    "prag": "62936591",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2088",
+    "xyg": "AJ13LGSR5FD",
+    "fps": "GS3807D301-X",
+    "prag": "62936588",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2087",
+    "xyg": "AJ13LGSR5FD",
+    "fps": "GS3807D301",
+    "prag": "62936587",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2092",
+    "xyg": "AJ13BYPR",
+    "fps": "GS3807D21-X",
+    "prag": "62936586",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2091",
+    "xyg": "AJ13BYPR",
+    "fps": "GS3807D21",
+    "prag": "62936585",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2056",
+    "xyg": "6071AGSBLMVW",
+    "fps": "GS3307D12-X",
+    "prag": "62936558",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2040",
+    "xyg": "6057AGSBLVZ",
+    "fps": "GS3302D12-X",
+    "prag": "62936556",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1885",
+    "xyg": "4157BGNHI",
+    "fps": "GS3254D21",
+    "prag": "62936552",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2025",
+    "xyg": "4159ASMR",
+    "fps": "GS3251P110-X",
+    "prag": "62936551",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2029",
+    "xyg": "4159RGSR5RDW",
+    "fps": "GS3251D304-X",
+    "prag": "62936550",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2028",
+    "xyg": "4159RGSR5RDW",
+    "fps": "GS3251D304",
+    "prag": "62936549",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2031",
+    "xyg": "4159RGSR5FDW1M",
+    "fps": "GS3251D302-X",
+    "prag": "62936546",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2030",
+    "xyg": "4159RGSR5FDW1M",
+    "fps": "GS3251D302",
+    "prag": "62936545",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2027",
+    "xyg": "4159LGSR5FDW1M",
+    "fps": "GS3251D301-X",
+    "prag": "62936544",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2026",
+    "xyg": "4159LGSR5FDW1M",
+    "fps": "GS3251D301",
+    "prag": "62936543",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2032",
+    "xyg": "4159BGPR1H",
+    "fps": "GS3251D21",
+    "prag": "62936541",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2024",
+    "xyg": "4159AGABLVW",
+    "fps": "GS3251D12-X",
+    "prag": "62936540",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2023",
+    "xyg": "4159AGABLVW",
+    "fps": "GS3251D12",
+    "prag": "62936539",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2022",
+    "xyg": "4159AGRBLHMOVW",
+    "fps": "GS3251D11-X",
+    "prag": "62936538",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2021",
+    "xyg": "4159AGRBLHMOVW",
+    "fps": "GS3251D11",
+    "prag": "62936537",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2199",
+    "xyg": "4422AGNBL",
+    "fps": "GS3241D11-X",
+    "prag": "62936534",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1979",
+    "xyg": "4153BGNR",
+    "fps": "GS3237D21-X",
+    "prag": "62936533",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1969",
+    "xyg": "4153AGABLV",
+    "fps": "GS3237D14-X",
+    "prag": "62936531",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1965",
+    "xyg": "4153AGNBLV",
+    "fps": "GS3237D11-X",
+    "prag": "62936530",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1908",
+    "xyg": "4151ASMH",
+    "fps": "GS3236P142-X",
+    "prag": "62936529",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1988",
+    "xyg": "41A6AGNBLHV",
+    "fps": "GS3230D12-X",
+    "prag": "62936528",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1814",
+    "xyg": "4149AGNBLMOV1B",
+    "fps": "GS3228D12-X",
+    "prag": "62936527",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1812",
+    "xyg": "4149AGNBLV",
+    "fps": "GS3228D11-X",
+    "prag": "62936526",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2020",
+    "xyg": "4129BGNRBO2Q",
+    "fps": "GS3217D21-X",
+    "prag": "62936517",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1959",
+    "xyg": "4133AGNBLHMV1P",
+    "fps": "GS3216D16",
+    "prag": "62936515",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1958",
+    "xyg": "4133AGNBLHV2C",
+    "fps": "GS3216D15",
+    "prag": "62936514",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1805",
+    "xyg": "4199AGNBLV",
+    "fps": "GS3204D11-X",
+    "prag": "62936510",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1840",
+    "xyg": "41AZBGNS",
+    "fps": "GS3238D21",
+    "prag": "59693093",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1796",
+    "xyg": "GS 3227 D302",
+    "fps": "4148RGNH5FD",
+    "prag": "57972496",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2065",
+    "xyg": "60A3RGNR5RQA",
+    "fps": "GS5031D306",
+    "prag": "57023783",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2064",
+    "xyg": "60A2RGNR5RDW",
+    "fps": "GS5031D304",
+    "prag": "57023780",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2063",
+    "xyg": "GS 5031 D303",
+    "fps": "GS5031D303-X",
+    "prag": "57023779",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2067",
+    "xyg": "GS 5031 D302",
+    "fps": "GS5031D302-X",
+    "prag": "57023777",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2066",
+    "xyg": "60A2RGNR5FDW",
+    "fps": "GS5031D302",
+    "prag": "57023776",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2068",
+    "xyg": "60A2BGNRZ",
+    "fps": "GS5031D21",
+    "prag": "57023773",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2062",
+    "xyg": "GS 5031 D14",
+    "fps": "GS5031D14-X",
+    "prag": "57023772",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2061",
+    "xyg": "60A2AGNBLHMV",
+    "fps": "GS5031D13-X",
+    "prag": "57023770",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2146",
+    "xyg": "GS 4041 D302",
+    "fps": "GS4041D302-X",
+    "prag": "57023466",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2145",
+    "xyg": "4444RGNH3FDW1M",
+    "fps": "GS4041D302",
+    "prag": "57023465",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2144",
+    "xyg": "GS 4041 D301",
+    "fps": "GS4041D301-X",
+    "prag": "57023464",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2143",
+    "xyg": "4444LGNH3FDW1M",
+    "fps": "GS4041D301",
+    "prag": "57023463",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2142",
+    "xyg": "GS 4041 D13",
+    "fps": "GS4041D13-X",
+    "prag": "57023462",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2139",
+    "xyg": "GS 4041 D12",
+    "fps": "GS4041D12-X",
+    "prag": "57023460",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2138",
+    "xyg": "4444AGNBLHMPV",
+    "fps": "GS4041D12",
+    "prag": "57023459",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2141",
+    "xyg": "GS 4041 D11",
+    "fps": "GS4041D11-X",
+    "prag": "57023458",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2140",
+    "xyg": "4444AGNV",
+    "fps": "GS4041D11",
+    "prag": "57023457",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2121",
+    "xyg": "GS 4040 D303",
+    "fps": "GS4040D303-X",
+    "prag": "57023454",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2120",
+    "xyg": "4443LGNM5RDW",
+    "fps": "GS4040D303",
+    "prag": "57023453",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2123",
+    "xyg": "GS 4040 D302",
+    "fps": "GS4040D302-X",
+    "prag": "57023452",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2122",
+    "xyg": "GS 4040 D301",
+    "fps": "GS4040D301-X",
+    "prag": "57023450",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2119",
+    "xyg": "4443AGNBLHMOV",
+    "fps": "GS4040D11",
+    "prag": "57023447",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2187",
+    "xyg": "4441LGSS4FD",
+    "fps": "GS4032D301-X",
+    "prag": "57023432",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2154",
+    "xyg": "GS 4031 D303",
+    "fps": "GS4031D303-X",
+    "prag": "57023429",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2152",
+    "xyg": "4442AGNBLHMPV6T",
+    "fps": "GS4031D13-X",
+    "prag": "57023427",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2151",
+    "xyg": "4442AGNBLHMPV6T",
+    "fps": "GS4031D13",
+    "prag": "57023426",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2148",
+    "xyg": "4442AGNBLHMPV",
+    "fps": "GS4031D12-X",
+    "prag": "57023425",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2147",
+    "xyg": "4442AGNBLHMPV",
+    "fps": "GS4031D12",
+    "prag": "57023424",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2183",
+    "xyg": "44A1RGNR5FD",
+    "fps": "GS4026D302",
+    "prag": "57023423",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2205",
+    "xyg": "GS 4021 D301",
+    "fps": "GS4021D301-X",
+    "prag": "57023408",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2208",
+    "xyg": "4433BGNH1H",
+    "fps": "GS4021D21-X",
+    "prag": "57023407",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2203",
+    "xyg": "GS 4021 D11",
+    "fps": "GS4021D11-X",
+    "prag": "57023405",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2115",
+    "xyg": "GS 4016 D304",
+    "fps": "GS4016D304-X",
+    "prag": "57023402",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2117",
+    "xyg": "GS 4016 D302",
+    "fps": "GS4016D302-X",
+    "prag": "57023400",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2133",
+    "xyg": "GS 4014 D301",
+    "fps": "GS4014D301-X",
+    "prag": "57023396",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2130",
+    "xyg": "4431AGNHV2P",
+    "fps": "GS4014D15-X",
+    "prag": "57023395",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2219",
+    "xyg": "4426RGNH5FD",
+    "fps": "GS4013D304-X",
+    "prag": "57023394",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2217",
+    "xyg": "4426RGNH5RD",
+    "fps": "GS4013D302-X",
+    "prag": "57023392",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2214",
+    "xyg": "4426LGNH5RD",
+    "fps": "GS4013D301-X",
+    "prag": "57023391",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2220",
+    "xyg": "GS 4013 D21",
+    "fps": "GS4013D21-X",
+    "prag": "57023390",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2213",
+    "xyg": "4426AGN1P",
+    "fps": "GS4013D12",
+    "prag": "57023388",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2125",
+    "xyg": "4429AGNBLHV",
+    "fps": "GS4011D11-X",
+    "prag": "57023387",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2080",
+    "xyg": "AJ16AGSMV1B",
+    "fps": "GS3804D11-X",
+    "prag": "57023385",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2079",
+    "xyg": "AJ16AGSMV1B",
+    "fps": "GS3804D11",
+    "prag": "57023384",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2100",
+    "xyg": "GS 3803 D11",
+    "fps": "GS3803D11-X",
+    "prag": "57023383",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2098",
+    "xyg": "GS 3802 D304",
+    "fps": "GS3802D304-X",
+    "prag": "57023382",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2076",
+    "xyg": "3744ACL",
+    "fps": "GS3606D11",
+    "prag": "57023358",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2077",
+    "xyg": "3733AGN",
+    "fps": "GS3605D11-X",
+    "prag": "57023357",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2072",
+    "xyg": "GS 3601 D303",
+    "fps": "GS3601D303-X",
+    "prag": "57023354",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2037",
+    "xyg": "6056RYPR5RDW",
+    "fps": "GS3308D304",
+    "prag": "57023331",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2036",
+    "xyg": "6056LYPR5RDW",
+    "fps": "GS3308D303",
+    "prag": "57023330",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2035",
+    "xyg": "6056AGSBLMVZ",
+    "fps": "GS3308D11-X",
+    "prag": "57023323",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2034",
+    "xyg": "6056AGSBLMVZ",
+    "fps": "GS3308D11",
+    "prag": "57023322",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2058",
+    "xyg": "6071RGSS4RD",
+    "fps": "GS3307D304",
+    "prag": "57023320",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2059",
+    "xyg": "6071BGSSA",
+    "fps": "GS3307D21",
+    "prag": "57023313",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2057",
+    "xyg": "6071AGSBLHMPVWZ",
+    "fps": "GS3307D13",
+    "prag": "57023311",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2055",
+    "xyg": "6071AGSBLMVW",
+    "fps": "GS3307D12",
+    "prag": "57023310",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2050",
+    "xyg": "6054AGSBLMVWZ",
+    "fps": "GS3303D12-X",
+    "prag": "57023308",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2039",
+    "xyg": "6057AGSBLVZ",
+    "fps": "GS3302D12",
+    "prag": "57023301",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2047",
+    "xyg": "GS 3301 D304",
+    "fps": "GS3301D304-X",
+    "prag": "57023300",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2045",
+    "xyg": "GS 3301 D302",
+    "fps": "GS3301D302-X",
+    "prag": "57023298",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1925",
+    "xyg": "4146RGNS4RD",
+    "fps": "GS3249D304-X",
+    "prag": "57023296",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1924",
+    "xyg": "4146RGNS4RD",
+    "fps": "GS3249D304",
+    "prag": "57023295",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1921",
+    "xyg": "4146LGNS4RD",
+    "fps": "GS3249D303-X",
+    "prag": "57023294",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1927",
+    "xyg": "4146RGSS4FD",
+    "fps": "GS3249D302-X",
+    "prag": "57023292",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1926",
+    "xyg": "4146RGSS4FD",
+    "fps": "GS3249D302",
+    "prag": "57023291",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1923",
+    "xyg": "GS 3249 D301",
+    "fps": "GS3249D301-X",
+    "prag": "57023290",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1922",
+    "xyg": "4146LGSS4FD",
+    "fps": "GS3249D301",
+    "prag": "57023289",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1928",
+    "xyg": "GS 3249 D22",
+    "fps": "GS3249D22-X",
+    "prag": "57023288",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1929",
+    "xyg": "4146BGNSAB",
+    "fps": "GS3249D21",
+    "prag": "57023286",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1920",
+    "xyg": "GS 3249 D12",
+    "fps": "GS3249D12-X",
+    "prag": "57023285",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1919",
+    "xyg": "4146AGSBLHMOV",
+    "fps": "GS3249D12",
+    "prag": "57023284",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1918",
+    "xyg": "4146AGNBLHV",
+    "fps": "GS3249D11-X",
+    "prag": "57023283",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1869",
+    "xyg": "GS 3248 D304",
+    "fps": "GS3248D304-X",
+    "prag": "57023281",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1868",
+    "xyg": "4155RGNH5RDW",
+    "fps": "GS3248D304",
+    "prag": "57023280",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1865",
+    "xyg": "GS 3248 D303",
+    "fps": "GS3248D303-X",
+    "prag": "57023279",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1864",
+    "xyg": "4155LGNH5RDW",
+    "fps": "GS3248D303",
+    "prag": "57023278",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1871",
+    "xyg": "GS 3248 D302",
+    "fps": "GS3248D302-X",
+    "prag": "57023277",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1870",
+    "xyg": "4155RGNH5FDW",
+    "fps": "GS3248D302",
+    "prag": "57023276",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1867",
+    "xyg": "GS 3248 D301",
+    "fps": "GS3248D301-X",
+    "prag": "57023275",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1866",
+    "xyg": "4155LGNH5FDW",
+    "fps": "GS3248D301",
+    "prag": "57023274",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1863",
+    "xyg": "4155AGNV",
+    "fps": "GS3248D11-X",
+    "prag": "57023273",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1862",
+    "xyg": "4155AGNV",
+    "fps": "GS3248D11",
+    "prag": "57023272",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1994",
+    "xyg": "41A7LGNS4RD",
+    "fps": "GS3245D303",
+    "prag": "57023270",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1996",
+    "xyg": "41A7RGNS4FDW",
+    "fps": "GS3245D302",
+    "prag": "57023269",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1995",
+    "xyg": "41A7LGNS4FDW",
+    "fps": "GS3245D301",
+    "prag": "57023268",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1993",
+    "xyg": "41A7AGNBLHMV",
+    "fps": "GS3245D11",
+    "prag": "57023266",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2165",
+    "xyg": "4421BGNSAB",
+    "fps": "GS3242D21-X",
+    "prag": "57023259",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1975",
+    "xyg": "4153RGNR5RQZ",
+    "fps": "GS3237D306",
+    "prag": "57023257",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1972",
+    "xyg": "4153LGNR5RQZ",
+    "fps": "GS3237D305",
+    "prag": "57023256",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1974",
+    "xyg": "4153RGNR5RDW",
+    "fps": "GS3237D304",
+    "prag": "57023254",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1971",
+    "xyg": "GS 3237 D303",
+    "fps": "GS3237D303-X",
+    "prag": "57023253",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1970",
+    "xyg": "4153LGNR5RDW",
+    "fps": "GS3237D303",
+    "prag": "57023252",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1977",
+    "xyg": "GS 3237 D302",
+    "fps": "GS3237D302-X",
+    "prag": "57023251",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1978",
+    "xyg": "4153BGNR",
+    "fps": "GS3237D21",
+    "prag": "57023249",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1968",
+    "xyg": "GS 3237 D13",
+    "fps": "GS3237D13-X",
+    "prag": "57023248",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1964",
+    "xyg": "4153AGNBLV",
+    "fps": "GS3237D11",
+    "prag": "57023247",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1914",
+    "xyg": "GS 3236 D304",
+    "fps": "GS3236D304-X",
+    "prag": "57023246",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1913",
+    "xyg": "4151RGNH5RD",
+    "fps": "GS3236D304",
+    "prag": "57023245",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1910",
+    "xyg": "4151LGNH5RD",
+    "fps": "GS3236D303-X",
+    "prag": "57023244",
+    "recommended": "GS 3236 D303",
+    "graal": null
+},
+{
+    "id": "1909",
+    "xyg": "4151LGNH5RD",
+    "fps": "GS3236D303",
+    "prag": "57023243",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1916",
+    "xyg": "4151RGNH5FD",
+    "fps": "GS3236D302-X",
+    "prag": "57023242",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1915",
+    "xyg": "4151RGNH5FD",
+    "fps": "GS3236D302",
+    "prag": "57023241",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1912",
+    "xyg": "4151LGNH5FD",
+    "fps": "GS3236D301-X",
+    "prag": "57023240",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1911",
+    "xyg": "4151LGNH5FD",
+    "fps": "GS3236D301",
+    "prag": "57023239",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1917",
+    "xyg": "GS 3236 D22",
+    "fps": "GS3236D22-X",
+    "prag": "57023238",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1907",
+    "xyg": "GS 3236 D12",
+    "fps": "GS3236D12-X",
+    "prag": "57023234",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1906",
+    "xyg": "4151AGNBLHMOV",
+    "fps": "GS3236D12",
+    "prag": "57023233",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1905",
+    "xyg": "GS 3236 D11",
+    "fps": "GS3236D11-X",
+    "prag": "57023232",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1992",
+    "xyg": "41A6RGNS4FD",
+    "fps": "GS3230D302-X",
+    "prag": "57023229",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1880",
+    "xyg": "4139RGSH5RD",
+    "fps": "GS3229D304-X",
+    "prag": "57023225",
+    "recommended": "GS 3229 D304",
+    "graal": null
+},
+{
+    "id": "1879",
+    "xyg": "4139RGSH5RD",
+    "fps": "GS3229D304",
+    "prag": "57023224",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1876",
+    "xyg": "4139LGSH5RD",
+    "fps": "GS3229D303-X",
+    "prag": "57023223",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1875",
+    "xyg": "4139LGSH5RD",
+    "fps": "GS3229D303",
+    "prag": "57023222",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1882",
+    "xyg": "4139RGSH5FD",
+    "fps": "GS3229D302-X",
+    "prag": "57023221",
+    "recommended": "GS 3229 D302",
+    "graal": null
+},
+{
+    "id": "1881",
+    "xyg": "4139RGSH5FD",
+    "fps": "GS3229D302",
+    "prag": "57023220",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1878",
+    "xyg": "GS 3229 D301",
+    "fps": "GS3229D301-X",
+    "prag": "57023219",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1877",
+    "xyg": "4139LGSH5FD",
+    "fps": "GS3229D301",
+    "prag": "57023218",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1884",
+    "xyg": "4139BGSH",
+    "fps": "GS3229D21-X",
+    "prag": "57023217",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1883",
+    "xyg": "4139BGSH",
+    "fps": "GS3229D21",
+    "prag": "57023216",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1873",
+    "xyg": "4139AGSV",
+    "fps": "GS3229D11-X",
+    "prag": "57023215",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1820",
+    "xyg": "GS 3228 D304",
+    "fps": "GS3228D304-X",
+    "prag": "57023213",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1819",
+    "xyg": "4149RGNS4RD",
+    "fps": "GS3228D304",
+    "prag": "57023212",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1816",
+    "xyg": "GS 3228 D303",
+    "fps": "GS3228D303-X",
+    "prag": "57023211",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1815",
+    "xyg": "4149LGNS4RD",
+    "fps": "GS3228D303",
+    "prag": "57023210",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1822",
+    "xyg": "GS 3228 D302",
+    "fps": "GS3228D302-X",
+    "prag": "57023209",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1818",
+    "xyg": "41A5LGNS4FD",
+    "fps": "GS3228D301-X",
+    "prag": "57023208",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1824",
+    "xyg": "GS 3228 D21",
+    "fps": "GS3228D21-X",
+    "prag": "57023207",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1823",
+    "xyg": "4149BGNS",
+    "fps": "GS3228D21",
+    "prag": "57023206",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2006",
+    "xyg": "4141RGNR5RD",
+    "fps": "GS3225D304",
+    "prag": "57023199",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2004",
+    "xyg": "4141LGNR5RD",
+    "fps": "GS3225D303",
+    "prag": "57023198",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2007",
+    "xyg": "4141RGNR5FD",
+    "fps": "GS3225D302",
+    "prag": "57023197",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2009",
+    "xyg": "4141BGSR",
+    "fps": "GS3225D21",
+    "prag": "57023194",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2003",
+    "xyg": "4141AGNHMV1B",
+    "fps": "GS3225D13-X",
+    "prag": "57023193",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1853",
+    "xyg": "GS 3224 D302",
+    "fps": "GS3224D302-X",
+    "prag": "57023190",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1851",
+    "xyg": "GS 3224 D301",
+    "fps": "GS3224D301-X",
+    "prag": "57023189",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1855",
+    "xyg": "4136BGNV",
+    "fps": "GS3224D21-X",
+    "prag": "57023188",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1849",
+    "xyg": "GS 3224 D11",
+    "fps": "GS3224D11-X",
+    "prag": "57023187",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1948",
+    "xyg": "4123RGNR5RD",
+    "fps": "GS3221D304",
+    "prag": "57023186",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1946",
+    "xyg": "4123LGNR5RD",
+    "fps": "GS3221D303",
+    "prag": "57023185",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1950",
+    "xyg": "4123RGNR5FD",
+    "fps": "GS3221D302-X",
+    "prag": "57023184",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1901",
+    "xyg": "GS 3219 D304",
+    "fps": "GS3219D304-X",
+    "prag": "57023181",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1897",
+    "xyg": "GS 3219 D303",
+    "fps": "GS3219D303-X",
+    "prag": "57023180",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1899",
+    "xyg": "GS 3219 D302",
+    "fps": "GS3219D302-X",
+    "prag": "57023179",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1895",
+    "xyg": "GS 3219 D301",
+    "fps": "GS3219D301-X",
+    "prag": "57023178",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1903",
+    "xyg": "GS 3219 D21",
+    "fps": "GS3219D21-X",
+    "prag": "57023177",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1893",
+    "xyg": "4135AGNV1G",
+    "fps": "GS3219D17",
+    "prag": "57023176",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1892",
+    "xyg": "4135AGSHMV6G",
+    "fps": "GS3219D16",
+    "prag": "57023175",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1891",
+    "xyg": "4135AGSMV1G",
+    "fps": "GS3219D15",
+    "prag": "57023174",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1859",
+    "xyg": "4137RGNH5RD",
+    "fps": "GS3218D304",
+    "prag": "57023172",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1857",
+    "xyg": "4137LGNH5RD",
+    "fps": "GS3218D303-X",
+    "prag": "57023171",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1856",
+    "xyg": "4137LGNH5RD",
+    "fps": "GS3218D303",
+    "prag": "57023170",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2019",
+    "xyg": "GS 3217 D304",
+    "fps": "GS3217D304-X",
+    "prag": "57023169",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2018",
+    "xyg": "4129RGNR5RDW",
+    "fps": "GS3217D302-X",
+    "prag": "57023167",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2015",
+    "xyg": "GS 3217 D301",
+    "fps": "GS3217D301-X",
+    "prag": "57023166",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1962",
+    "xyg": "GS 3216 D304",
+    "fps": "GS3216D304-X",
+    "prag": "57023165",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1961",
+    "xyg": "GS 3216 D303",
+    "fps": "GS3216D303-X",
+    "prag": "57023164",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1846",
+    "xyg": "4116BGNV",
+    "fps": "GS3210D21-X",
+    "prag": "57023155",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1998",
+    "xyg": "4117AGNBL",
+    "fps": "GS3208D11-X",
+    "prag": "57023154",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1934",
+    "xyg": "4140RGYR5RQ",
+    "fps": "GS3205D306",
+    "prag": "57023153",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1933",
+    "xyg": "4140RGYR5RD",
+    "fps": "GS3205D304",
+    "prag": "57023151",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1932",
+    "xyg": "4140LGYR5RD",
+    "fps": "GS3205D303",
+    "prag": "57023150",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1935",
+    "xyg": "4140RGSR5FD",
+    "fps": "GS3205D302",
+    "prag": "57023149",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1936",
+    "xyg": "4140BYPR",
+    "fps": "GS3205D21",
+    "prag": "57023146",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1931",
+    "xyg": "4140AGSBLH",
+    "fps": "GS3205D12-X",
+    "prag": "57023145",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1797",
+    "xyg": "4122RGNH5RD",
+    "fps": "GS3201D308",
+    "prag": "57023139",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1801",
+    "xyg": "GS 3201 D302",
+    "fps": "GS3201D302-X",
+    "prag": "57023135",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1833",
+    "xyg": "GS 3127 D302",
+    "fps": "GS3127D302-X",
+    "prag": "57023129",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1830",
+    "xyg": "GS 3127 D301",
+    "fps": "GS3127D301-X",
+    "prag": "57023128",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2173",
+    "xyg": "44A4AGNBLV",
+    "fps": "GS4025D11",
+    "prag": "54723313",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2204",
+    "xyg": "4433LGNH3FD1M",
+    "fps": "GS4021D301",
+    "prag": "54723275",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2207",
+    "xyg": "4433BGNH1H",
+    "fps": "GS4021D21",
+    "prag": "54723274",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2201",
+    "xyg": "4404AGNBL",
+    "fps": "GS4019D11",
+    "prag": "54723263",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2111",
+    "xyg": "4430AGNBLV",
+    "fps": "GS4016D12",
+    "prag": "54723232",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2109",
+    "xyg": "4430AGNBLHV",
+    "fps": "GS4016D11",
+    "prag": "54723231",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2179",
+    "xyg": "4427AGNBL",
+    "fps": "GS4015D15-X",
+    "prag": "54723216",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2177",
+    "xyg": "4427AGNBLHM1B",
+    "fps": "GS4015D13",
+    "prag": "54723214",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2176",
+    "xyg": "4427AGNBLH",
+    "fps": "GS4015D12",
+    "prag": "54723213",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2175",
+    "xyg": "4427AGNBLV",
+    "fps": "GS4015D11",
+    "prag": "54723212",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2136",
+    "xyg": "4431RGNH5FD1M",
+    "fps": "GS4014D304",
+    "prag": "54723193",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2134",
+    "xyg": "4431LGNH5FD1M",
+    "fps": "GS4014D303",
+    "prag": "54723192",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2218",
+    "xyg": "4426RGNS4RD",
+    "fps": "GS4013D306",
+    "prag": "54723174",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2216",
+    "xyg": "4426RGNH5RD",
+    "fps": "GS4013D302",
+    "prag": "54723172",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2221",
+    "xyg": "4426BGNS",
+    "fps": "GS4013D22",
+    "prag": "54723170",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2211",
+    "xyg": "4426AGSBL",
+    "fps": "GS4013D11",
+    "prag": "54723168",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2126",
+    "xyg": "4429ASMM",
+    "fps": "GS4011P120-X",
+    "prag": "54723159",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2124",
+    "xyg": "4429AGNBLHV",
+    "fps": "GS4011D11",
+    "prag": "54723157",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2167",
+    "xyg": "GS 4005 D12",
+    "fps": "GS4005D11-X",
+    "prag": "54723132",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2166",
+    "xyg": "4436AGNBLV",
+    "fps": "GS4005D11",
+    "prag": "54723131",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2229",
+    "xyg": "4409LGNH5FD",
+    "fps": "GS4004D301",
+    "prag": "54723113",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2097",
+    "xyg": "GS 3802 D304-X",
+    "fps": "GS3802D304",
+    "prag": "54723098",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2096",
+    "xyg": "GS 3802 D303-X",
+    "fps": "GS3802D303",
+    "prag": "54723097",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2095",
+    "xyg": "AJ10LGSR5RD",
+    "fps": "GS3802D301",
+    "prag": "54723095",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2099",
+    "xyg": "AJ10BGSROW",
+    "fps": "GS3802D21",
+    "prag": "54723094",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2093",
+    "xyg": "GS 3802 D13",
+    "fps": "GS3802D12",
+    "prag": "54723092",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2074",
+    "xyg": "3741RGSV4FDW",
+    "fps": "GS3601D304",
+    "prag": "54722714",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2075",
+    "xyg": "3741RGSV4FV",
+    "fps": "GS3601D302",
+    "prag": "54722712",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2073",
+    "xyg": "3741LGSV4FV",
+    "fps": "GS3601D301",
+    "prag": "54722711",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2071",
+    "xyg": "GS 3601 D11",
+    "fps": "GS3601D12",
+    "prag": "54722704",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2070",
+    "xyg": "3741AGNBL",
+    "fps": "GS3601D11-X",
+    "prag": "54722703",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2046",
+    "xyg": "6033RGNR5FD",
+    "fps": "GS3301D304",
+    "prag": "54721748",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2044",
+    "xyg": "GS 3301 D302-X",
+    "fps": "GS3301D302",
+    "prag": "54721746",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2043",
+    "xyg": "GS 3301 D301-X",
+    "fps": "GS3301D301",
+    "prag": "54721745",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2048",
+    "xyg": "6033BGPRA",
+    "fps": "GS3301D21",
+    "prag": "54721744",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2161",
+    "xyg": "4421LGNS4RDW",
+    "fps": "GS3242D303",
+    "prag": "54721566",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2163",
+    "xyg": "4421RGNS4FDW",
+    "fps": "GS3242D302",
+    "prag": "54721565",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2162",
+    "xyg": "4421LGNS4FDW",
+    "fps": "GS3242D301",
+    "prag": "54721564",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2164",
+    "xyg": "4421BGNSAB",
+    "fps": "GS3242D21",
+    "prag": "54721563",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2159",
+    "xyg": "4421AGNBL",
+    "fps": "GS3242D11-X",
+    "prag": "54721562",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1987",
+    "xyg": "41A6AGNBLHV",
+    "fps": "GS3230D12",
+    "prag": "54721538",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1872",
+    "xyg": "4139AGSV",
+    "fps": "GS3229D11",
+    "prag": "54721534",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1813",
+    "xyg": "4149AGNBLMOV1B",
+    "fps": "GS3228D12",
+    "prag": "54721530",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1811",
+    "xyg": "4149AGNBLV",
+    "fps": "GS3228D11",
+    "prag": "54721529",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2002",
+    "xyg": "GS 3225 D11",
+    "fps": "GS3225D11-X",
+    "prag": "54721489",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1852",
+    "xyg": "4136RGNV3FDW",
+    "fps": "GS3224D302",
+    "prag": "54721481",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1850",
+    "xyg": "4136LGNV3FDW",
+    "fps": "GS3224D301",
+    "prag": "54721480",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1854",
+    "xyg": "4136BGNV",
+    "fps": "GS3224D21",
+    "prag": "54721479",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1980",
+    "xyg": "GS 3223 D11",
+    "fps": "GS3223D11-X",
+    "prag": "54721473",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1947",
+    "xyg": "4123LGNR5FD",
+    "fps": "GS3221D301",
+    "prag": "54721461",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1945",
+    "xyg": "4123AGNBLH",
+    "fps": "GS3221D12",
+    "prag": "54721460",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1943",
+    "xyg": "4123AGNBL",
+    "fps": "GS3221D11",
+    "prag": "54721459",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1898",
+    "xyg": "4135RGNH5RD",
+    "fps": "GS3219D302",
+    "prag": "54721437",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1902",
+    "xyg": "4135BGNH",
+    "fps": "GS3219D21",
+    "prag": "54721436",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1890",
+    "xyg": "4135AGNMV1B",
+    "fps": "GS3219D13",
+    "prag": "54721435",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1861",
+    "xyg": "4137BCLH",
+    "fps": "GS3218D21",
+    "prag": "54721420",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2016",
+    "xyg": "4129LGNR5FDW",
+    "fps": "GS3217D303",
+    "prag": "54721401",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2017",
+    "xyg": "4129RGNR5RD",
+    "fps": "GS3217D302",
+    "prag": "54721400",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2014",
+    "xyg": "4129LGNR5RD",
+    "fps": "GS3217D301",
+    "prag": "54721399",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1960",
+    "xyg": "4133LGNR5RDW",
+    "fps": "GS3216D301",
+    "prag": "54721353",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1956",
+    "xyg": "4133AGNBLMV1B",
+    "fps": "GS3216D14",
+    "prag": "54721352",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1951",
+    "xyg": "4133AGNBLHV",
+    "fps": "GS3216D11",
+    "prag": "54721351",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1986",
+    "xyg": "4130RGNS4FD",
+    "fps": "GS3213D304",
+    "prag": "54721269",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1985",
+    "xyg": "4130RGNS4RD",
+    "fps": "GS3213D302",
+    "prag": "54721267",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1843",
+    "xyg": "4116LGNV2FDW",
+    "fps": "GS3210D303",
+    "prag": "54721221",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2174",
+    "xyg": "4117RGNS4FDW",
+    "fps": "GS3208D304",
+    "prag": "54721187",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2000",
+    "xyg": "4117RGNS4RD",
+    "fps": "GS3208D302",
+    "prag": "54721185",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1798",
+    "xyg": "4122RGNH5RDW",
+    "fps": "GS3201D312",
+    "prag": "54721095",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1799",
+    "xyg": "4122RGNS4RDW",
+    "fps": "GS3201D306",
+    "prag": "54721093",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1800",
+    "xyg": "4122RGNH5FD",
+    "fps": "GS3201D302",
+    "prag": "54721089",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1802",
+    "xyg": "4122BGNHABW",
+    "fps": "GS3201D22",
+    "prag": "54721087",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1803",
+    "xyg": "4122BGNS",
+    "fps": "GS3201D21",
+    "prag": "54721086",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1941",
+    "xyg": "4125RGNH5FD",
+    "fps": "GS3169D302",
+    "prag": "54721067",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1939",
+    "xyg": "4125LGNH5FD",
+    "fps": "GS3169D301",
+    "prag": "54721066",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1937",
+    "xyg": "4125AGNBL",
+    "fps": "GS3169D11",
+    "prag": "54721065",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1806",
+    "xyg": "4199LGNS4RD",
+    "fps": "GS3204D303",
+    "prag": "54720974",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1807",
+    "xyg": "4199LGNS4FD",
+    "fps": "GS3204D301",
+    "prag": "54720973",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1810",
+    "xyg": "4199BGNSAB",
+    "fps": "GS3204D21",
+    "prag": "54720972",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1831",
+    "xyg": "4128RGNH5RDW",
+    "fps": "GS3127D304",
+    "prag": "54720929",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1828",
+    "xyg": "4128LGNH5RDW",
+    "fps": "GS3127D303",
+    "prag": "54720928",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1832",
+    "xyg": "4128RGSH5FDW",
+    "fps": "GS3127D302",
+    "prag": "54720927",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1829",
+    "xyg": "4128LGSH5FDW",
+    "fps": "GS3127D301",
+    "prag": "54720926",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1834",
+    "xyg": "4128BGNH1H",
+    "fps": "GS3127D21",
+    "prag": "54720925",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2060",
+    "xyg": "60A2AGNBLHMV",
+    "fps": "GS5031D13",
+    "prag": "52869564",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2185",
+    "xyg": "4441LGSS4RD",
+    "fps": "GS4032D303",
+    "prag": "52869476",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2186",
+    "xyg": "GS 4032 D301-X",
+    "fps": "GS4032D301",
+    "prag": "52869474",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2153",
+    "xyg": "4442ASMH",
+    "fps": "GS4031P140-X",
+    "prag": "52869473",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2156",
+    "xyg": "4442RGNH5RDW",
+    "fps": "GS4031D304",
+    "prag": "52869472",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2157",
+    "xyg": "4442RGNH5FDW",
+    "fps": "GS4031D302",
+    "prag": "52869470",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2155",
+    "xyg": "4442LGNH5FDW",
+    "fps": "GS4031D301",
+    "prag": "52869469",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2149",
+    "xyg": "4442AGNV",
+    "fps": "GS4031D11",
+    "prag": "52869467",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2182",
+    "xyg": "44A1AGNBLH",
+    "fps": "GS4026D11",
+    "prag": "52869465",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2114",
+    "xyg": "4430RGNM5RD",
+    "fps": "GS4016D304",
+    "prag": "52869444",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2113",
+    "xyg": "4430LGNM5FD",
+    "fps": "GS4016D301",
+    "prag": "52869442",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2181",
+    "xyg": "4427ASMS",
+    "fps": "GS4015P120-X",
+    "prag": "52869441",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2169",
+    "xyg": "4436ASMS",
+    "fps": "GS4005P110-X",
+    "prag": "52869440",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2172",
+    "xyg": "4436RGNS4RDW",
+    "fps": "GS4005D304",
+    "prag": "52869439",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2170",
+    "xyg": "4436LGNS4RDW",
+    "fps": "GS4005D303",
+    "prag": "52869438",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2171",
+    "xyg": "4436LGNS4FDW",
+    "fps": "GS4005D301",
+    "prag": "52869436",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2168",
+    "xyg": "4436AGNV",
+    "fps": "GS4005D12",
+    "prag": "52869434",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2078",
+    "xyg": "3734AGN",
+    "fps": "GS3604D11",
+    "prag": "52869422",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2054",
+    "xyg": "FW25RGNR5FD",
+    "fps": "GS3304D302",
+    "prag": "52869413",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2053",
+    "xyg": "FW25LGNR5FD",
+    "fps": "GS3304D301",
+    "prag": "52869412",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2052",
+    "xyg": "6054RGNR5FD",
+    "fps": "GS3303D302",
+    "prag": "52869410",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2051",
+    "xyg": "6054LGNR5FD",
+    "fps": "GS3303D301",
+    "prag": "52869409",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2049",
+    "xyg": "6054AGNBLV",
+    "fps": "GS3303D11",
+    "prag": "52869407",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2042",
+    "xyg": "6057RGSR5FDW",
+    "fps": "GS3302D302",
+    "prag": "52869406",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2038",
+    "xyg": "6057AGSBLMVZ",
+    "fps": "GS3302D11",
+    "prag": "52869404",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2033",
+    "xyg": "4147AGNBLV",
+    "fps": "GS3240D11",
+    "prag": "52869401",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1839",
+    "xyg": "41AZRGSS4FD",
+    "fps": "GS3238D302",
+    "prag": "52869400",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1838",
+    "xyg": "41AZLGSS4FD",
+    "fps": "GS3238D301",
+    "prag": "52869399",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1837",
+    "xyg": "41AZAGSBLHMV",
+    "fps": "GS3238D13",
+    "prag": "52869398",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1976",
+    "xyg": "4153RGNR5FDW1M",
+    "fps": "GS3237D302",
+    "prag": "52869397",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1973",
+    "xyg": "4153LGNR5FDW1M",
+    "fps": "GS3237D301",
+    "prag": "52869396",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1967",
+    "xyg": "4153AGABLHMOV",
+    "fps": "GS3237D13",
+    "prag": "52869395",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1966",
+    "xyg": "4153AGSBLHV",
+    "fps": "GS3237D12",
+    "prag": "52869394",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1990",
+    "xyg": "41A6RGNS4RD",
+    "fps": "GS3230D304",
+    "prag": "52869393",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1991",
+    "xyg": "41A6RGNS4FD",
+    "fps": "GS3230D302",
+    "prag": "52869392",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1989",
+    "xyg": "41A6LGNS4FD",
+    "fps": "GS3230D301",
+    "prag": "52869391",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1821",
+    "xyg": "4149RGNS4FD",
+    "fps": "GS3228D302",
+    "prag": "52869388",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2001",
+    "xyg": "4141AGNV",
+    "fps": "GS3225D11",
+    "prag": "52869381",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1957",
+    "xyg": "4133AGNBLMV1B",
+    "fps": "GS3216D14-X",
+    "prag": "52869378",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2150",
+    "xyg": "4442AGNV",
+    "fps": "GS4031D11-X",
+    "prag": "52866569",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2112",
+    "xyg": "GS 4016 D12",
+    "fps": "GS4016D12-X",
+    "prag": "52866558",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2110",
+    "xyg": "GS 4016 D11",
+    "fps": "GS4016D11-X",
+    "prag": "52866557",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2137",
+    "xyg": "4431RGNH5FD1M",
+    "fps": "GS4014D304-X",
+    "prag": "52866556",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2135",
+    "xyg": "GS 4014 D303",
+    "fps": "GS4014D303-X",
+    "prag": "52866555",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2212",
+    "xyg": "4426AGSBL",
+    "fps": "GS4013D11-X",
+    "prag": "52866554",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2210",
+    "xyg": "GS 4010 D11",
+    "fps": "GS4010D11-X",
+    "prag": "52866553",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2094",
+    "xyg": "GS 3802 D13",
+    "fps": "GS3802D13-X",
+    "prag": "52866550",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2069",
+    "xyg": "6278AGN",
+    "fps": "GS3403D11-X",
+    "prag": "52866532",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1836",
+    "xyg": "4132AGNBLMV1B",
+    "fps": "GS3234D12-X",
+    "prag": "52866531",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1835",
+    "xyg": "4132AGNBLV",
+    "fps": "GS3234D11-X",
+    "prag": "52866530",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1874",
+    "xyg": "4139ASMH",
+    "fps": "GS3229P120-X",
+    "prag": "52866529",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2005",
+    "xyg": "GS 3225 D303",
+    "fps": "GS3225D303-X",
+    "prag": "52866526",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1944",
+    "xyg": "4123AGNBL",
+    "fps": "GS3221D11-X",
+    "prag": "52866481",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1887",
+    "xyg": "4135AGSV",
+    "fps": "GS3219D11-X",
+    "prag": "52866479",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1952",
+    "xyg": "4133AGNBLHV",
+    "fps": "GS3216D11-X",
+    "prag": "52866478",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1999",
+    "xyg": "4117ASMS",
+    "fps": "GS3208P110-X",
+    "prag": "52866476",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1930",
+    "xyg": "GS 3205 D11",
+    "fps": "GS3205D11-X",
+    "prag": "52866475",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2215",
+    "xyg": "4426LGNH5FD",
+    "fps": "GS4013D303",
+    "prag": "41360754",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1940",
+    "xyg": "4125RGNH5RD",
+    "fps": "GS3169D304",
+    "prag": "41349318",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1938",
+    "xyg": "4125LGNH5RD",
+    "fps": "GS3169D303",
+    "prag": "41348822",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2184",
+    "xyg": "4441AGSBLHMOV2B",
+    "fps": "GS4032D13",
+    "prag": "41337821",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1809",
+    "xyg": "4199RGNS4FD",
+    "fps": "GS3204D302",
+    "prag": "41335600",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1808",
+    "xyg": "4199RGNS4RD",
+    "fps": "GS3204D304",
+    "prag": "41316889",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1984",
+    "xyg": "4130LGNS4RD",
+    "fps": "GS3213D301",
+    "prag": "41303892",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1983",
+    "xyg": "4130ASMST",
+    "fps": "GS3213P133-X",
+    "prag": "41302715",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1954",
+    "xyg": "4133AGNBLHMV1B",
+    "fps": "GS3216D12-X",
+    "prag": "41274724",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2230",
+    "xyg": "4409RGNH5FD",
+    "fps": "GS4004D302",
+    "prag": "41246945",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1949",
+    "xyg": "4123RGNR5FD",
+    "fps": "GS3221D302",
+    "prag": "41245925",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2131",
+    "xyg": "4431ASMH",
+    "fps": "GS4014P120-X",
+    "prag": "41244333",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2012",
+    "xyg": "4129AGNBLHV",
+    "fps": "GS3217D12-X",
+    "prag": "41242367",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2132",
+    "xyg": "4431LGNH5RD",
+    "fps": "GS4014D301",
+    "prag": "41242105",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2129",
+    "xyg": "GS 4014 D12",
+    "fps": "GS4014D12-X",
+    "prag": "41242104",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2013",
+    "xyg": "4129ASMR",
+    "fps": "GS3217P120-X",
+    "prag": "41241751",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1900",
+    "xyg": "4135RGNH5FD",
+    "fps": "GS3219D304",
+    "prag": "40718268",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1894",
+    "xyg": "4135LGNH5RD",
+    "fps": "GS3219D301",
+    "prag": "40718264",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1896",
+    "xyg": "4135LGNH5FD",
+    "fps": "GS3219D303",
+    "prag": "40610380",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1889",
+    "xyg": "4135AGNHMV1B",
+    "fps": "GS3219D12-X",
+    "prag": "40610353",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1888",
+    "xyg": "4135AGNHMV1B",
+    "fps": "GS3219D12",
+    "prag": "40594457",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1997",
+    "xyg": "4117AGNBL",
+    "fps": "GS3208D11",
+    "prag": "40488652",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1886",
+    "xyg": "4135AGSV",
+    "fps": "GS3219D11",
+    "prag": "40150416",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1904",
+    "xyg": "4151AGNV",
+    "fps": "GS3236D11",
+    "prag": "38744617",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1827",
+    "xyg": "4128ASMH",
+    "fps": "GS3127P120-X",
+    "prag": "38659390",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2160",
+    "xyg": "4421ASMS",
+    "fps": "GS3242P110-X",
+    "prag": "38435644",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2158",
+    "xyg": "4421AGNBL",
+    "fps": "GS3242D11",
+    "prag": "38253397",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2200",
+    "xyg": "4422ASMH",
+    "fps": "GS3241P120-X",
+    "prag": "38215433",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2198",
+    "xyg": "4422AGNBL",
+    "fps": "GS3241D11",
+    "prag": "38087792",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2209",
+    "xyg": "4411AGNBL",
+    "fps": "GS4010D11",
+    "prag": "38027844",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2008",
+    "xyg": "4141RGNR5FD",
+    "fps": "GS3225D302-X",
+    "prag": "37447071",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1860",
+    "xyg": "4137RGNH5FD",
+    "fps": "GS3218D302",
+    "prag": "37276823",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1847",
+    "xyg": "4116BGNVL",
+    "fps": "GS3210D201",
+    "prag": "36905386",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1842",
+    "xyg": "4116AGNBL",
+    "fps": "GS3210D11-X",
+    "prag": "36831986",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1844",
+    "xyg": "4116RGNV2FDW",
+    "fps": "GS3210D304",
+    "prag": "36663349",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1845",
+    "xyg": "4116BGNV",
+    "fps": "GS3210D21",
+    "prag": "36649626",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1841",
+    "xyg": "4116AGNBL",
+    "fps": "GS3210D11",
+    "prag": "36649616",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1858",
+    "xyg": "4137LGNH5FD",
+    "fps": "GS3218D301",
+    "prag": "36527539",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1942",
+    "xyg": "4125BGNH",
+    "fps": "GS3169D21",
+    "prag": "36434105",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1817",
+    "xyg": "GS 3228 D301-X",
+    "fps": "GS3228D301",
+    "prag": "36311082",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1826",
+    "xyg": "4128AGSBL",
+    "fps": "GS3127D11-X",
+    "prag": "34345494",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1825",
+    "xyg": "4128AGSBL",
+    "fps": "GS3127D11",
+    "prag": "34303010",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1804",
+    "xyg": "4199AGNBLV",
+    "fps": "GS3204D11",
+    "prag": "32378669",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1981",
+    "xyg": "GS 3213 D11",
+    "fps": "GS3213D11-X",
+    "prag": "31944655",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1982",
+    "xyg": "4130AGNBLV",
+    "fps": "GS3213D12",
+    "prag": "31923442",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1848",
+    "xyg": "4136AGNBLV",
+    "fps": "GS3224D11",
+    "prag": "31836959",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1795",
+    "xyg": "8589AGNGYMVZ1P",
+    "fps": "GS1208D11",
+    "prag": "31647450",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2206",
+    "xyg": "4433RGNH3FD1M",
+    "fps": "GS4021D302",
+    "prag": "31550107",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2202",
+    "xyg": "4433AGNHV",
+    "fps": "GS4021D11",
+    "prag": "31492446",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2101",
+    "xyg": "9288AGNBLV",
+    "fps": "GS3203D11",
+    "prag": "31462828",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1955",
+    "xyg": "4133AGNBLV",
+    "fps": "GS3216D13",
+    "prag": "31236765",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1953",
+    "xyg": "4133AGNBLHMV1B",
+    "fps": "GS3216D12",
+    "prag": "31236748",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "1963",
+    "xyg": "4133BGNR",
+    "fps": "GS3216D21",
+    "prag": "31235205",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2116",
+    "xyg": "4430RGNM5FD",
+    "fps": "GS4016D302",
+    "prag": "31161206",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2010",
+    "xyg": "4129AGNBLHV",
+    "fps": "GS3217D11-X",
+    "prag": "30177614",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2011",
+    "xyg": "4129AGNBLHV",
+    "fps": "GS3217D12",
+    "prag": "30165606",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2128",
+    "xyg": "4431AGNHV",
+    "fps": "GS4014D12",
+    "prag": "30010355",
+    "recommended": null,
+    "graal": null
+},
+{
+    "id": "2127",
+    "xyg": "4431AGNV",
+    "fps": "GS4014D11-X",
+    "prag": "30010340",
+    "recommended": null,
+    "graal": null
+}
+]
+
+}
+]
